@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aakashdeep Rohilla</h1>
 
-<!--
-**adrohilla99/adrohilla99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>MSc Applied AI @ University of Warwick</strong><br/>
+  Full-stack developer focused on practical AI solutions and scalable web applications
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a developer with a strong interest in building practical systems that combine:
+
+- Applied AI
+- Full-stack engineering
+- Backend architecture
+- Real-world problem solving
+
+My work is centered on creating solutions that are not only technically sound, but also usable, reliable, and scalable.
+
+---
+
+## Tech Stack
+
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Django
+- **Databases:** PostgreSQL, MongoDB, Azure Cosmos DB
+- **Tools:** Git, GitHub, REST APIs, Agile workflows
+
+---
+
+## Featured Project
+
+### BladeMart E-Commerce
+Production-style full-stack e-commerce project.
+
+[View Repository](https://github.com/adrohilla99/blademart-ecommerce)
+
+---
+
+## Current Interests
+
+- Applied AI
+- NLP-driven systems
+- Intelligent web applications
+- Scalable software engineering
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ad-rohilla/)
+- [GitHub](https://github.com/adrohilla99)
