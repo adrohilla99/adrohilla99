@@ -1,54 +1,68 @@
-<h1 align="center">Hi, I'm Aakashdeep Rohilla</h1>
+# Hi, I'm Aakashdeep Rohilla
 
-<p align="center">
-  <strong>MSc Applied AI @ University of Warwick</strong><br/>
-  Full-stack developer focused on practical AI solutions and scalable web applications
-</p>
+**MSc Applied AI @ University of Warwick**  
+Full-stack developer focused on practical AI solutions and scalable web applications.
 
 ---
 
 ## About Me
 
-I am a developer with a strong interest in building practical systems that combine:
+I enjoy building software that sits at the intersection of **AI, backend systems, and user-focused web applications**.
 
-- Applied AI
-- Full-stack engineering
-- Backend architecture
-- Real-world problem solving
+My background combines:
+- **Applied AI** through postgraduate study at Warwick
+- **Full-stack development** across frontend, backend, and databases
+- A strong interest in turning ideas into **practical, production-oriented solutions**
 
-My work is centered on creating solutions that are not only technically sound, but also usable, reliable, and scalable.
+I am particularly interested in:
+- Applied AI and intelligent systems
+- NLP and AI-powered applications
+- Scalable backend architecture
+- Building clean, reliable full-stack products
 
 ---
 
 ## Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, SQL
-- **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Django
-- **Databases:** PostgreSQL, MongoDB, Azure Cosmos DB
-- **Tools:** Git, GitHub, REST APIs, Agile workflows
+**Languages**  
+Python · JavaScript · TypeScript · SQL
+
+**Frontend**  
+React.js · HTML · CSS
+
+**Backend**  
+Node.js · Django
+
+**Databases**  
+PostgreSQL · MongoDB · Azure Cosmos DB
+
+**Tools & Workflow**  
+Git · GitHub · REST APIs · Agile Development
 
 ---
 
-## Featured Project
+## Featured Work
 
 ### BladeMart E-Commerce
-Production-style full-stack e-commerce project.
+A full-stack e-commerce platform built with a production-oriented engineering approach.
 
-[View Repository](https://github.com/adrohilla99/blademart-ecommerce)
+**Repository:** [blademart-ecommerce](https://github.com/adrohilla99/blademart-ecommerce)
 
 ---
 
-## Current Interests
+## Current Focus
 
-- Applied AI
-- NLP-driven systems
-- Intelligent web applications
-- Scalable software engineering
+- Deepening expertise in **Applied AI**
+- Building projects that combine **software engineering + AI**
+- Strengthening portfolio work around **real-world intelligent applications**
 
 ---
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ad-rohilla/)
-- [GitHub](https://github.com/adrohilla99)
+- **LinkedIn:** [ad-rohilla](https://www.linkedin.com/in/ad-rohilla/)
+- **GitHub:** [adrohilla99](https://github.com/adrohilla99)
+
+---
+
+> Building practical systems with a blend of software engineering and applied AI.
