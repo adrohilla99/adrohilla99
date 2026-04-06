@@ -1,7 +1,7 @@
 # Hi, I'm Aakashdeep Rohilla
 
 **MSc Applied AI @ University of Warwick**  
-Full-stack developer focused on practical AI solutions and scalable web applications.
+Full-stack developer focused on practical AI solutions, intelligent systems, and scalable web applications.
 
 ---
 
@@ -31,25 +31,33 @@ Python · JavaScript · TypeScript · SQL
 React.js · HTML · CSS · Tailwind CSS
 
 **Backend**  
-Node.js · Django
+Node.js · Django · Express · FastAPI
+
+**AI / ML**  
+TensorFlow · Keras · NLTK
 
 **Databases**  
-PostgreSQL · MongoDB · Azure Cosmos DB
+PostgreSQL · MongoDB · Azure Cosmos DB · SQLite
 
 **Tools & Workflow**  
-Git · GitHub · REST APIs · Redux Toolkit · Agile Development
+Git · GitHub · REST APIs · Redux Toolkit · Prisma · Agile Development
 
 ---
 
 ## Featured Work
 
+### IntelliChat Customer Support Agent
+An AI-powered first-line customer support chatbot that classifies user intent locally and routes responses through a context-aware conversation layer.
+
+**Repository:** [intellichat-customer-support-agent](https://github.com/adrohilla99/intellichat-customer-support-agent)
+
 ### BladeMart E-Commerce
-A full-stack e-commerce platform built with a production-oriented engineering approach.
+A full-stack e-commerce platform built with a production-oriented engineering approach, featuring authentication, product browsing, cart workflows, and payments.
 
 **Repository:** [blademart-ecommerce](https://github.com/adrohilla99/blademart-ecommerce)
 
 ### Lyriks Music App
-A modern music discovery and preview player application with search, artist and song detail pages, related tracks, and responsive UI design.
+A modern music discovery application with song search, artist and track views, and a responsive interface built for interactive user experience.
 
 **Repository:** [lyriks-music-app](https://github.com/adrohilla99/lyriks-music-app)
 
