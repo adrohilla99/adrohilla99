@@ -1,94 +1,130 @@
-# Hi, I'm Aakashdeep Rohilla
+# Hi, I'm Aakashdeep Rohilla 👋
 
-**MSc Applied AI @ University of Warwick**
-Full-stack and applied AI engineer, building practical intelligent systems and scalable web applications.
+**MSc Applied Artificial Intelligence | University of Warwick, UK**  
+**Full-Stack Software Engineer | Applied AI & Machine Learning**
+
+I build intelligent applications and scalable software systems, combining experience in production full-stack development with postgraduate research in applied artificial intelligence.
+
+My interests lie at the intersection of **machine learning, privacy-preserving AI, backend engineering, and practical AI deployment**.
 
 ---
 
 ## About Me
 
-I enjoy building software at the intersection of **AI, backend systems, and user-focused web applications**.
+- 🎓 **MSc Applied Artificial Intelligence**, University of Warwick — 73.5% calculated overall average (Distinction); dissertation awarded 75% (Distinction).
+- 💼 **Former Associate Full Stack Developer at Emerson Electric**, with nearly two years of experience developing enterprise applications, REST APIs, and database-backed services.
+- 🔬 **AI Research:** Investigated privacy-preserving environmental sound classification using PyTorch, vector quantisation, and adversarial learning.
+- 🧠 **Applied ML:** Developed projects involving predictive maintenance, conversational AI, model evaluation, and explainable machine learning.
+- ⚙️ **Software Engineering:** Experienced in Python/Django backends, React/Node.js applications, relational databases, and Azure integrations.
 
-My background combines:
-
-- **Applied AI** through postgraduate study at Warwick (on track for Distinction)
-- **Full-stack development** across frontend, backend, and databases
-- **Two years of production software engineering** at Emerson Electric Co.
-- A strong interest in building **practical, production-oriented solutions**
-
-I am particularly interested in:
-
-- Applied AI and intelligent systems
-- Privacy-preserving and on-device machine learning
-- NLP and AI-powered applications
-- Scalable backend architecture
-- Clean, reliable full-stack products
+I am interested in **software engineering, applied AI, and machine learning engineering opportunities**, alongside research in trustworthy and privacy-aware AI systems.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Languages**
-Python · JavaScript · TypeScript · SQL
-
-**Frontend**
-React.js · HTML · CSS · Tailwind CSS
-
-**Backend**
-Node.js · Django · Express · FastAPI · Flask
-
-**AI / ML**
-PyTorch · TensorFlow · Keras · scikit-learn · XGBoost · SHAP · NLTK
-
-**Databases**
-PostgreSQL · MongoDB · Azure Cosmos DB · SQLite
-
-**Tools & Workflow**
-Git · GitHub Actions (CI/CD) · REST APIs · Pytest · Vitest · Redux Toolkit · Prisma · Agile Development
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, SQL |
+| **AI & Machine Learning** | PyTorch, TensorFlow, Keras, scikit-learn, XGBoost, SHAP, NLTK, torchaudio |
+| **Backend** | Django, FastAPI, Flask, Node.js, Express, REST APIs, SQLAlchemy |
+| **Frontend** | React, Redux Toolkit, Tailwind CSS, HTML/CSS |
+| **Databases** | PostgreSQL, SQLite, Azure Cosmos DB |
+| **Cloud & DevOps** | Azure Machine Learning, Git, GitHub Actions, CI/CD, automated testing |
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### 1. Detecting Sounds with Privacy (MSc Dissertation)
+### 🔐 1. Detecting Sounds with Privacy — MSc Dissertation
 
-Privacy-preserving sound event detection: can a device recognise important sounds such as alarms, glass breaking, or sirens, without retaining enough information to reconstruct what was said nearby?
+**Privacy-Preserving AI | Python, PyTorch, torchaudio**
 
-The work builds an on-device encoder with a quantised bottleneck, then measures the trade-off between classification utility and the information available to an attacker. Current baseline: a 10-fold CNN on UrbanSound8K reaching **0.746 macro-F1** under the official cross-validation protocol, with a bitrate-controlled bottleneck in progress.
+Research investigating whether environmental sounds can be recognised accurately without retaining sufficient acoustic information to reconstruct nearby speech.
 
-**Stack:** Python · PyTorch · torchaudio · NumPy
+- Developed an environmental sound classification framework using a neural encoder and vector-quantised bottleneck.
+- Achieved **0.746 macro-F1** on UrbanSound8K under the official 10-fold cross-validation protocol.
+- Investigated adversarial learning, gradient reversal, and speech-recovery attacks to evaluate the balance between acoustic utility and speech privacy.
+- Awarded **75% (Distinction)** for the MSc dissertation.
+
 **Repository:** [edbr1-sound-privacy](https://github.com/adrohilla99/edbr1-sound-privacy)
 
-### 2. IntelliChat Customer Support Agent
+### ⚙️ 2. Marine Gas-Turbine Predictive Maintenance — Digital Twin
 
-An AI-powered first-line customer support chatbot that classifies user intent locally and routes responses through a context-aware conversation layer, with confidence-based routing between a direct answer, a clarifying question, and human handoff. User corrections are captured as labelled examples and fed into an automated retraining pipeline.
+**Predictive Analytics | XGBoost, SHAP, Flask**
 
-**Stack:** Python · TensorFlow · FastAPI · SQLite · GitHub Actions
+An ML-driven digital twin for evaluating marine gas-turbine health using operational sensor telemetry.
+
+- Developed a dual-model XGBoost approach to reconstruct healthy sensor behaviour and estimate degradation.
+- Evaluated regression performance and applied SHAP to explain influential sensor features.
+- Built a Flask dashboard supporting simulated faults, automated diagnostics, and visualisation of engine health.
+
+### 🤖 3. IntelliChat — Conversational AI & Customer Support
+
+**NLP | TensorFlow, FastAPI, NLTK, SQLite**
+
+An intelligent customer-support chatbot using locally executed intent classification rather than relying on an external LLM for every response.
+
+- Implemented TensorFlow-based intent recognition and FastAPI REST endpoints.
+- Designed multi-turn conversations with confidence-based routing, slot filling, and human escalation.
+- Integrated persistent session context, feedback collection, and automated testing through GitHub Actions.
+
 **Repository:** [intellichat-customer-support-agent](https://github.com/adrohilla99/intellichat-customer-support-agent)
 
-### 3. BladeMart E-Commerce
+### 🛒 4. BladeMart — Full-Stack E-Commerce Platform
 
-A full-stack e-commerce platform built with a production-oriented engineering approach, featuring authentication, product browsing, search and filtering, cart workflows, and Stripe payments.
+**Full-Stack Development | React, TypeScript, Node.js, PostgreSQL**
 
-**Stack:** React · TypeScript · Node.js · Express · Prisma · PostgreSQL
+An end-to-end e-commerce application demonstrating modern web architecture and database-backed business workflows.
+
+- Developed product browsing, search, filtering, and shopping-cart functionality.
+- Implemented authentication, backend APIs, and Stripe payment integration.
+- Used Prisma and PostgreSQL for structured data management.
+
 **Repository:** [blademart-ecommerce](https://github.com/adrohilla99/blademart-ecommerce)
+
+---
+
+## Professional Experience
+
+### Emerson Electric Co. | Associate Full Stack Developer
+*July 2023 – February 2025*
+
+Worked in the Measurement Solutions division on enterprise software for industrial product selection and configuration.
+
+- Developed Django backend services and REST APIs for the Flow Product Advisor.
+- Worked with PostgreSQL and Azure Cosmos DB for application data management.
+- Contributed to modernising application modules from Django to a MERN-stack architecture while maintaining existing production functionality.
+
+### Dhillon Fabricators & Engineers | AI Engineering Intern
+*March 2025 – August 2025*
+
+Prototyped machine learning solutions for industrial predictive maintenance and sensor-health monitoring using Python, scikit-learn, and XGBoost.
+
+---
+
+## Research Interests
+
+- Privacy-preserving and trustworthy machine learning
+- Edge AI and on-device intelligent systems
+- Deep learning and representation learning
+- Environmental sound analysis and speech privacy
+- AI-powered software systems and intelligent automation
 
 ---
 
 ## Current Focus
 
-- Completing my MSc dissertation on **privacy-preserving audio machine learning**
-- Deepening expertise in **applied AI and on-device inference**
-- Building projects that combine **software engineering + AI**
-- Expanding end-to-end development across **web, data, and interactive user experiences**
+I am continuing to develop my expertise in **applied machine learning, privacy-aware AI, and production-oriented software engineering**, with particular interest in translating research concepts into reliable, usable applications.
+
+I am also exploring opportunities to contribute to **AI research, intelligent systems, and full-stack engineering projects**.
 
 ---
 
-## Connect
+## Connect With Me
 
-- **LinkedIn:** [ad-rohilla](https://www.linkedin.com/in/ad-rohilla/)
-- **GitHub:** [adrohilla99](https://github.com/adrohilla99)
+- **LinkedIn:** [linkedin.com/in/ad-rohilla](https://www.linkedin.com/in/ad-rohilla/)
+- **GitHub:** [github.com/adrohilla99](https://github.com/adrohilla99)
+- **Email:** adrohilla99@gmail.com
 
----
-
-> Building practical systems with a blend of software engineering and applied AI.
+*Building reliable software and practical AI systems, from research and experimentation to real-world applications.*
