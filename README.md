@@ -59,6 +59,8 @@ An ML-driven digital twin for evaluating marine gas-turbine health using operati
 - Evaluated regression performance and applied SHAP to explain influential sensor features.
 - Built a Flask dashboard supporting simulated faults, automated diagnostics, and visualisation of engine health.
 
+**Repository:** [naval-turbine-simulator-and-predictive-maintanance](https://github.com/adrohilla99/naval-turbine-simulator-and-predictive-maintanance)
+
 ### 🤖 3. IntelliChat — Conversational AI & Customer Support
 
 **NLP | TensorFlow, FastAPI, NLTK, SQLite**
